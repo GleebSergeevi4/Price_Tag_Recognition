@@ -1,0 +1,5 @@
+#Dataset
+venv/
+.venv/
+raw_data/
+dataset/
