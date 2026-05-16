@@ -1,5 +1,14 @@
 #Dataset
 venv/
 .venv/
+annotations/
 raw_data/
 dataset/
+datasetv2/
+datasetv1/
+finetun/
+frames/
+labels/
+scripts/
+dataset_subset/
+data.yaml
